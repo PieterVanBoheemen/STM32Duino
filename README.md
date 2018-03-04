@@ -1,4 +1,5 @@
 # Why STM32Duino
+<img align="right" width="200" src="rsz_stm32_ledtest.jpg" />
 In this repo I am testing STM32 as an affordable substitute for the expensive Arduino MCU. Arduino UNO could easily cost 20 EUR. I know Arduino clones are available for around 4 USD, I don't really like the large footprint of the boards.
 
 # Setup
