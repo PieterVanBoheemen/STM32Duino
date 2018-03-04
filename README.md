@@ -43,7 +43,8 @@ void loop() {
   Serial.println("Blink");  
 }
 ~~~~
-10. On the board you will find two Boot jumpers. Set the one on the top to 1 in order to switch it to programming mode. 
+10. On the board you will find two Boot jumpers. Set the one on the top to 1 in order to switch it to programming mode.
+![STM32 Board](STM32.jpg)
 11. Press the Reset button on the STM32 board
 12. In the Arduino IDE, click on Upload
 13. Once the upload is completed a LED should start blinking on the STM32 board
